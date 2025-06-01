@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|c:\\users\\basti\\desktop\\epreuve e6\\lyonpalme\\forms\\stockmateriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|solutionrelative:forms\\stockmateriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|c:\\users\\basti\\desktop\\epreuve e6\\lyonpalme\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|solutionrelative:forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|c:\\users\\basti\\desktop\\epreuve e6\\lyonpalme\\forms\\listematpr\u00EAt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|solutionrelative:forms\\listematpr\u00EAt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|c:\\users\\basti\\desktop\\epreuve e6\\lyonpalme\\forms\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA1298B-8D3B-48C8-9AD5-9A7909BABCE1}|LyonPalmeForms.csproj|solutionrelative:forms\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockMateriel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\StockMateriel.cs",
+              "RelativeDocumentMoniker": "Forms\\StockMateriel.cs",
+              "ToolTip": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\StockMateriel.cs [Design]",
+              "RelativeToolTip": "Forms\\StockMateriel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:54:01.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\Main.cs",
+              "RelativeDocumentMoniker": "Forms\\Main.cs",
+              "ToolTip": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\Main.cs [Design]",
+              "RelativeToolTip": "Forms\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:53:59.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListeMatPr\u00EAt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\ListeMatPr\u00EAt.cs",
+              "RelativeDocumentMoniker": "Forms\\ListeMatPr\u00EAt.cs",
+              "ToolTip": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\ListeMatPr\u00EAt.cs [Design]",
+              "RelativeToolTip": "Forms\\ListeMatPr\u00EAt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:53:58.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\Connexion.cs",
+              "RelativeDocumentMoniker": "Forms\\Connexion.cs",
+              "ToolTip": "C:\\Users\\basti\\Desktop\\Epreuve E6\\lyonpalme\\Forms\\Connexion.cs [Design]",
+              "RelativeToolTip": "Forms\\Connexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:53:17.03Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
