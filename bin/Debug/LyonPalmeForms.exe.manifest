@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LyonPalmeForms.exe" size="292760">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LyonPalmeForms.exe" size="293272">
       <assemblyIdentity name="LyonPalmeForms" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rTe/aao8tRNplH5UcfZu1s6LohkLYPcC2OGBSTA/5eg=</dsig:DigestValue>
+        <dsig:DigestValue>mTuWL1eNP03up0Br0qClyVjP8FlwIjg9/LHj+VslMcA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

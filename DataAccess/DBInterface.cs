@@ -26,7 +26,7 @@ namespace LyonPalmeForms.DataAccess
             };
 
             cmd.Parameters.AddWithValue("@login", login);
-            cmd.Parameters.AddWithValue("@password", password);
+            cmd.Parameters.AddWithValue("@password", ComputeSHA512Hash(password));
 
             try
             {
@@ -242,6 +242,18 @@ namespace LyonPalmeForms.DataAccess
 
             return stockList;
         }
+
+
+        public static string ComputeSHA512Hash(string input)
+        {
+            using (SHA512 sha512 = SHA512.Create())
+            {
+                byte[] bytes = Encoding.UTF8.GetBytes(input);
+                byte[] hash = sha512.ComputeHash(bytes);
+                return BitConverter.ToString(hash).Replace("-", "").ToLower(); // Hex string
+            }
+        }
+
 
 
 
