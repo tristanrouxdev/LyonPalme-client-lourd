@@ -74,3 +74,18 @@ Impossible d'insérer la valeur NULL dans la colonne 'idPret', table 'kalifaroui
 L'instruction a été arrêtée.
 L'instruction a été arrêtée.
 -------------------------------
+
+Log Entry : 14:23:12 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur jdupont vient de se connecter
+-------------------------------
+
+Log Entry : 20:08:51 dimanche 8 juin 2025
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 20:08:51 dimanche 8 juin 2025
+  :
+  :DBInterface : erreur SQL
+-------------------------------
